@@ -15,7 +15,7 @@ setup(
         "SQLAlchemy-Utils==0.36.1",
         "pandas==1.5",
         "spacy==2.3.9",
-        "hdbscan==0.8.33",
+        "hdbscan==0.8.40",
         "umap-learn==0.5.3",
         "numba==0.57.1",
         "llvmlite==0.40.1",
