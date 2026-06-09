@@ -1,4 +1,4 @@
-FROM node:20.13.1-slim
+FROM ghcr.io/usepa/node-20:latest
 
 WORKDIR /code
 COPY . /code
